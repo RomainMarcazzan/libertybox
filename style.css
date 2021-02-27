@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#sounds {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sound {
+  width: 150px;
+  height: 150px;
+  padding: 5px;
+  margin: 0 1rem 1rem 0;
+  border: 1px solid lightgray;
+  box-shadow: 0.5rem 0.5rem 0.5rem lightgray;
+  border-radius: 2rem;
+  display: flex;
+  font-size: 14px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  cursor: pointer;
+}
+
+.sound:hover {
+  transform: scale(1.05);
+}

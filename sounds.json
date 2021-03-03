@@ -68,10 +68,6 @@
     "src": "Cheveux courts !.mp3"
   },
   {
-    "title": "Cheveux courts !",
-    "src": "Cheveux courts !.mp3"
-  },
-  {
     "title": "Comme le monde est petit",
     "src": "Comme le monde est petit.mp3"
   },
@@ -124,8 +120,8 @@
     "src": "J'ai la montée des marches.mp3"
   },
   {
-    "title": "J'aime bien les papiers toilette",
-    "src": "J'aime bien les papiers toilette.mp3"
+    "title": "Les papiers toilette",
+    "src": "Les papiers toilette.mp3"
   },
   {
     "title": "J'irais au bout",
@@ -160,8 +156,8 @@
     "src": "Je vais aux toilettes.mp3"
   },
   {
-    "title": "Je veux travailler avec vous",
-    "src": "Je veux travailler avec vous.mp3"
+    "title": "Travailler avec vous",
+    "src": "Travailler avec vous.mp3"
   },
   {
     "title": "Je vous rembourse",
@@ -228,6 +224,10 @@
     "src": "Perdu une bataille.mp3"
   },
   {
+    "title": "Plus importants de la moselle",
+    "src": "Plus importants de la moselle.mp3"
+  },
+  {
     "title": "Programme de la soirée",
     "src": "Programme de la soirée.mp3"
   },
@@ -244,12 +244,12 @@
     "src": "Sean Connery.mp3"
   },
   {
-    "title": "Si j'attend aprés toi pour boire un coup",
-    "src": "Si j'attend aprés toi pour boire un coup.mp3"
+    "title": "Pour boire un coup",
+    "src": "Pour boire un coup.mp3"
   },
   {
-    "title": "Si je suis president du jury",
-    "src": "Si je suis president du jury.mp3"
+    "title": "President du jury",
+    "src": "President du jury.mp3"
   },
   {
     "title": "Steph tu dois traduire",
@@ -276,20 +276,20 @@
     "src": "Un gros projet.mp3"
   },
   {
-    "title": "Un nom, une vie, une ame, liberte",
-    "src": "Un nom, une vie, une ame, liberte.mp3"
+    "title": "Un nom, une vie, une ame",
+    "src": "Un nom, une vie, une ame.mp3"
   },
   {
     "title": "Un petit café",
     "src": "Un petit café.mp3"
   },
   {
-    "title": "Une voiture pour faire du flan flan",
-    "src": "Une voiture pour faire du flan flan.mp3"
+    "title": "Pour faire du flan flan",
+    "src": "Pour faire du flan flan.mp3"
   },
   {
-    "title": "Une vraie sequence ou t'es dedans",
-    "src": "Une vraie sequence ou t'es dedans.mp3"
+    "title": "Une vraie sequence",
+    "src": "Une vraie sequence.mp3"
   },
   {
     "title": "Virtuose du duduk",
@@ -301,6 +301,6 @@
   },
   {
     "title": "Vous fumez",
-    "src": "Vous fumez"
+    "src": "Vous fumez.mp3"
   }
 ]

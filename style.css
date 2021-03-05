@@ -58,7 +58,7 @@ body {
   display: grid;
   margin-top: 20px;
   grid-template-columns: 1fr 1fr;
-  grid-row: repeat(37, 1fr);
+  grid-row: repeat(42, 1fr);
   row-gap: 1rem;
   column-gap: 0.5rem;
 }
@@ -96,7 +96,7 @@ body {
     display: grid;
     margin-top: 20px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-row: repeat(19, 1fr);
+    grid-row: repeat(21, 1fr);
     row-gap: 1rem;
     column-gap: 0.8rem;
   }
@@ -126,7 +126,7 @@ body {
     display: grid;
     margin-top: 20px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-row: repeat(19, 1fr);
+    grid-row: repeat(21, 1fr);
     row-gap: 1rem;
     column-gap: 3rem;
   }
